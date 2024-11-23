@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCuMa1_xqSc4f0OmvYBm1L_GW7to8fcYRw",
+    apiKey: "",
     authDomain: "test-auth-api-3fc0c.firebaseapp.com",
     projectId: "test-auth-api-3fc0c",
     storageBucket: "test-auth-api-3fc0c.firebasestorage.app",
